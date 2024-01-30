@@ -83,6 +83,8 @@ Pour aborder les différentes parties de la problématique on fera :
 
 ## Evaluation des approches et résultats:
 
+Les résultats ont été évalué suivant leur capacité à restituer la vidéo demandée mais aussi à s'adapter à de nouvelles vidéos qui auraient suivi le même traitement. Le fichier Test.ipynb dans le dossiers approches connexes permet de générer les fichiers visuels de test.
+
 # **Approche 0.0 :**
 
 **Avantages :**

@@ -1,0 +1,9 @@
+numpy==1.23.5
+gdown==4.7.3
+tqdm==4.66.1
+opencv-python==4.8.0.76
+supervision==0.18.0
+torch @ https://download.pytorch.org/whl/cu121/torch-2.1.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=0d4e8c52a1fcf5ed6cfc256d9a370fcf4360958fc79d0b08a51d55e70914df46
+torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.16.0%2Bcu121-cp310-cp310-linux_x86_64.whl#sha256=e76e78d0ad43636c9884b3084ffaea8a8b61f21129fbfa456a5fe734f0affea9
+ultralytics==8.1.8
+Pillow==9.4.0
