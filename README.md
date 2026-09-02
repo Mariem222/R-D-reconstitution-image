@@ -1,4 +1,4 @@
-## TestDigeiz
+## Projet de recherche : Reconstruction d'ordre temporel dans des séquences vidéo altérées
 
 # Objectif:
 
